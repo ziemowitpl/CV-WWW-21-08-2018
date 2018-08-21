@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 html {
     font-size: 16px;
+    color: #555;
 }
 body {
     line-height: 1.8rem;
@@ -10,7 +11,7 @@ header {
     color: white;
     background-size: cover;
     background-image: url('img/pattern.jpg');
-    background-position: center;
+    background-position: fixed;
     text-align: center;
     height: auto;
 }
@@ -27,4 +28,14 @@ header div {
     margin: 0 auto;
     max-width: 640px;
     padding-bottom: 20px;
+}
+main h3 {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+main section {
+    border-bottom: 2px solid #555;
+}
+main section:last-child {
+    border-bottom: none;
 }
