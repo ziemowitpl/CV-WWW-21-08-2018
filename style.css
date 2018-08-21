@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+html {
+    font-size: 16px;
+}
+body {
+    line-height: 1.8rem;
+    font-family: 'Raleway', sans-serif;
+}
+header {
+    color: white;
+    background-size: cover;
+    background-image: url('img/pattern.jpg');
+    background-position: center;
+    text-align: center;
+    height: auto;
+}
+header h1 {
+    text-transform: uppercase;
+}
+header img {
+    max-width: 150px;
+    height: auto;
+    border-radius: 50%;
+    padding-top: 15px;
+}
+header div {
+    margin: 0 auto;
+    max-width: 640px;
+    padding-bottom: 20px;
+}
