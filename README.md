@@ -3,7 +3,7 @@
 ### Spis tresci:
 
 1. HEADER
-⋅⋅1. Zdjecie
+  1. Zdjecie
 ⋅⋅2. Opis
 2. Kursy ktore ukoczylem
 3. Umiejętności
